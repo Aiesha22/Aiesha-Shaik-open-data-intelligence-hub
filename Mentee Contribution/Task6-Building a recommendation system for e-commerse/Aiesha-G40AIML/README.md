@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30073999/README.md)
 # 🛒 E-Commerce Recommendation System
 
 A content-based recommendation system built using Python, Scikit-learn, TF-IDF Vectorization, Cosine Similarity, and Streamlit.
